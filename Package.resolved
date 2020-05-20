@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DeviceX",
+        "repositoryURL": "https://github.com/prashantLalShrestha/DeviceX.git",
+        "state": {
+          "branch": null,
+          "revision": "e55c813e770401f071cffbe4d869aba522f4f7d0",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
