@@ -10,8 +10,8 @@ import UIKit
 import DeviceX
 
 public final class UIPinInputView: UIView {
-    fileprivate struct BaseDimension {
-        static var inset: CGFloat {
+    public struct BaseDimension {
+        public static var inset: CGFloat {
             switch DeviceX.current.size {
             case .screen4Inches:
                 return 14
@@ -24,7 +24,7 @@ public final class UIPinInputView: UIView {
             }
         }
 
-        static var height: CGFloat {
+        public static var height: CGFloat {
             switch DeviceX.current.size {
             case .screen4Inches:
                 return 48

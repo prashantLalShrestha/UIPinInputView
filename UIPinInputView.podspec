@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "UIPinInputView"
-  spec.version = "1.0.0"
+  spec.version = "1.0.1"
   spec.summary = "UIPinInputView is just a simple CoreFoundationKit utility Module"
 
   spec.description = <<-DESC
